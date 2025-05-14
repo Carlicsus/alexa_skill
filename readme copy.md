@@ -30,5 +30,5 @@ Fecha entrega: 14 de mayo del 2025
 
 #### Testing
 <div style="text-align: center">
-    <img src="test.png" alt="Imagen 2" width="400" height=""/>
+    <img src="testing.png" alt="Imagen 2" width="400" height=""/>
 </div>
